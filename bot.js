@@ -60,24 +60,7 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
 
 
-client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
-setInterval(function() {
-channel.send('TOP TOP TOP TOP TOP','TOP TOP TOP ');
-}, 25)
-})
-client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
-setInterval(function() {
-channel.send('WELCOME','WELCOME');
-}, 25)
-})
-client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
-setInterval(function() {
-channel.send('HI هاي ♥ » توب سبام ');
-}, 25)
-})
+
 
 client.on("ready", () => {
 let channel =     client.channels.get("510751461119098881")
