@@ -56,10 +56,28 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
 
 
+client.on("ready", () => {
+let channel =     client.channels.get("510751461119098881")
+setInterval(function() {
+channel.send('هاي ♥ هاي ♥ هاي ♥');
+}, 25)
+})
 
 
 
+client.on("ready", () => {
+let channel =     client.channels.get("510751461119098881")
+setInterval(function() {
+channel.send('welcome to welcome to welcome to');
+}, 25)
+})
 
+client.on("ready", () => {
+let channel =     client.channels.get("510751461119098881")
+setInterval(function() {
+channel.send('Bot Spamme ONLINE 24h  @lIFE#4630 للاستعلام تواصل مع');
+}, 25)
+})
 
 
 client.on("ready", () => {
