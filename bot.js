@@ -57,42 +57,42 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('هاي ♥ هاي ♥ هاي ♥');
-}, 25)
+}, 20)
 })
 
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('welcome to welcome to welcome to');
-}, 25)
+}, 40)
 })
 
 client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('Bot Spamme ONLINE 24h  @lIFE#4630 للاستعلام تواصل مع');
-}, 25)
+channel.send('Bot Spamme ONLINE 24h  MAL MAHMOUD للاستعلام تواصل مع');
+}, 60)
 })
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
-channel.send('بوت اسبام لشراء تواصل مع @lIFE#4630 ');
-}, 25)
+channel.send('بوت اسبام لشراء تواصل مع Mal Mahmoud ');
+}, 80)
 })
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("510751461119098881")
+let channel =     client.channels.get("502827265281884161")
 setInterval(function() {
 channel.send('اسعار البوت  5ك كرديت 5 ايام  - 10ك كرديت 7 ايام  - 20ك كرديت 18 يوم -30ك كدريت  29 يوم  - 40ك كرديت 39 يوم  -  50ك كرديت 55 يوم  -80ك كرديت 90يوم 100ك كرديت 24ساعة في 24ساعة ');
-}, 25)
+}, 100)
 })
 
 
